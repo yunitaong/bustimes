@@ -13,11 +13,11 @@ setup(
             'bus-arrival = bus_arrival.bus_arrival:main'
         ]
     },
-    author='Your Name',
-    author_email='your@email.com',
+    author='Yunita Ong',
+    author_email='yunitaong@gmail.com',
     description='A package to retrieve bus arrival information from LTA DataMall API',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/your_username/bustimes',
+    url='https://github.com/yunitaong/bustimes',
     license='MIT',
 )
