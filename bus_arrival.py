@@ -4,7 +4,7 @@ import time
 from IPython.display import clear_output
 
 # Define your ACCOUNT_KEY
-ACCOUNT_KEY = "viwzEVlzQPyBxKImp5pS3g=="
+ACCOUNT_KEY = "INSERTHERE"
 
 def get_bus_arrival(bus_stop_code):
     url = f'http://datamall2.mytransport.sg/ltaodataservice/BusArrivalv2?BusStopCode={bus_stop_code}'
